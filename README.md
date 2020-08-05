@@ -34,7 +34,7 @@ Chat bot 0  requires python 3.6 with following libraries:
 if you are using conda env you can create a conda enviorment with python 3.6
 ```sh
 conda create env python ==3.6
-pip install tensorflow==1.4
+pip install tensorflow
 
 ```
 
