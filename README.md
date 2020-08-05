@@ -8,7 +8,7 @@ The work flow is as follows
 * smile detection - after detection of the face that part is fed to the model for smile detection
 # Model Architecture 
 LE-NET
-##image##
+![img_work_flow](https://github.com/gd1m3y/SMILE-DETECTION/blob/master/lenet.png?raw=true)
 #  Features
 
   - Light weight
