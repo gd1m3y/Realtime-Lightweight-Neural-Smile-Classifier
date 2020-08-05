@@ -2,7 +2,7 @@
 smile detector is a light weight smile detection model which can predict whether a person is smiling or not
 # Work Flow
 The work flow is as follows
-##image##
+![img_work_flow](https://github.com/gd1m3y/SMILE-DETECTION/blob/master/workflow.png?raw=true)
 * Preprocessing -the image is processed to the requirements so that it can be fed to the model
 * face detection - open cvs casscade classifier is used to detect the face in the image
 * smile detection - after detection of the face that part is fed to the model for smile detection
