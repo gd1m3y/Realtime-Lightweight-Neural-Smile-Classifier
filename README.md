@@ -17,7 +17,7 @@ LE-NET
 
 ### Tech
 
-chat bot 0  uses a number of open source projects to work properly:
+SMILEs uses a number of open source projects to work properly:
 
 * [Python] - Python 3.6 the mother of data science languages
 * [Pycharm] - awesome python editor
